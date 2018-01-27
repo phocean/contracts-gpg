@@ -1,0 +1,6 @@
+[Contractor Entry]
+Name=Decrypt (gpg)
+Name=Déchiffrer (gpg)
+Description=Decryption
+MimeType=application/pgp-encrypted
+Exec=seahorse-tool --decrypt %f
