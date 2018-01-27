@@ -1,0 +1,6 @@
+[Contractor Entry]
+Name=Shred
+Name[fr]=Broyer
+Description=Decryption
+MimeType=!inode/blockdevice;inode/chardevice;inode/fifo;inode/socket;
+Exec=srm -rfD %u
