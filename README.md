@@ -4,6 +4,8 @@ This repository hosts some `.contract` files to work with the [elementary/contra
 
 So far, they bring support of GPG encryption to the ElementaryOS Files application (default file browser).
 
+![screenshot](https://github.com/phocean/contracts/raw/master/screenshot.png)
+
 I will eventually update this repository with more contracts when they can be of public interest.
 
 ## Install
